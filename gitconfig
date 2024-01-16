@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clarissalynn.5.cl@gmail.com
+	name = Clarissa Lynn
